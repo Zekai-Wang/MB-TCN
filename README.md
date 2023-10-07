@@ -4,7 +4,7 @@ A PyTorch implementation of the MB-TCN model as outlined in the paper "Multi-Bra
 In this paper, we propose a novel predictive framework with Multi-Branching Temporal Convolutional Network (MB-TCN) to model the complexly structured medical data for robust prediction of sepsis. The MB-TCN framework not only efficiently handles the missing value and imbalanced data issues but also effectively captures the temporal pattern and heterogeneous variable interactions. We evaluate the performance of the proposed MB-TCN in predicting sepsis using real-world medical data from PhysioNet/Computing in Cardiology Challenge 2019. Experimental results show that MB-TCN outperforms existing methods that are commonly used in current practice.
 
 ## Dataset
-We evaluate the performance of the proposed MB-TCN in predicting sepsis using real-world medical data from PhysioNet/Computing in Cardiology Challenge 2019 (https://physionet.org/content/challenge-2019/1.0.0/).
+Datasets we used in this project from PhysioNet/Computing in Cardiology Challenge 2019 (https://physionet.org/content/challenge-2019/1.0.0/).
 
 ## Dependencies
 Python3: 3.9.12
