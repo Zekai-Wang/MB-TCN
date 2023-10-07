@@ -17,7 +17,7 @@ Pandas: 2.0.3
 
 Scikit-learn: 1.2.2
 
-NVIDIA RTX A4500
+GPU: NVIDIA RTX A4500
 
 ## Citation
 If you utilize this code in your research, please consider citing our paper:
