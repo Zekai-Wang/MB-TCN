@@ -3,8 +3,6 @@ from torch import nn
 import torch.nn.functional as F
 from torch.nn.utils import weight_norm
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
 class Chomp1d(nn.Module):
     def __init__(self, chomp_size):
         super(Chomp1d, self).__init__()
