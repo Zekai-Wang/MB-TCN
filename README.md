@@ -16,6 +16,8 @@ Numpy: 1.23.4
 
 Pandas: 2.0.3
 
+Scikit-learn: 1.2.2
+
 # Citation
 If you utilize this code in your research, please consider citing our paper:
 
@@ -30,7 +32,6 @@ If you utilize this code in your research, please consider citing our paper:
   year={2021},
   publisher={IEEE}
 }
-
 ```
 
 
