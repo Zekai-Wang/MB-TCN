@@ -33,6 +33,14 @@ If you utilize this code in your research, please consider citing our paper:
   year={2021},
   publisher={IEEE}
 }
+
+@article{wang2024multi,
+  title={Multi-branching Temporal Convolutional Network with Tensor Data Completion for Diabetic Retinopathy Prediction},
+  author={Wang, Zekai and Chen, Suhao and Liu, Tieming and Yao, Bing},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 
